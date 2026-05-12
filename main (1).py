@@ -1,5 +1,5 @@
 """
-VectorDB — Python port of the C++ vector database
+VectorDB
 Implements HNSW, KD-Tree, and Brute Force search + RAG pipeline via Ollama.
 """
 
