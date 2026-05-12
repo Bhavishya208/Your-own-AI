@@ -1,4 +1,4 @@
-# VectorDB — Python Port
+# VectorDB 
 
 A Python vector database built from scratch.  
 Implements **HNSW**, **KD-Tree**, and **Brute Force** search algorithms, plus a **RAG pipeline** powered by a local LLM via Ollama.
